@@ -1,0 +1,10 @@
+.the-shop {
+  display: inline-block;
+  width: 50%;
+}
+
+.cart-interface {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+}
